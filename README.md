@@ -1,4 +1,4 @@
-# Emilia
+# Namikaze
 Telegram modular Python bot berjalan di python3 dengan database sqlalchemy.
 
 Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
